@@ -9,4 +9,6 @@ img{
 }
 p{
 	color: red;
+	line-height: 2em;
+	border: 1px solid red;
 }

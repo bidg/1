@@ -9,4 +9,5 @@ img{
 }
 p{
 	color: red;
+	outline: 1px solid red;
 }
